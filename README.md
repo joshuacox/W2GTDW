@@ -1,3 +1,5 @@
-# My Awesome Book
+# W2GTDW
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+### What to Get Things Done With
+
+This is a collection of practical examples applying GTD, and agile methodologies into a mixture of old school lo-tech, and modern hi-tech tools.
