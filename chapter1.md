@@ -14,3 +14,5 @@ Organize the ideas into sprints
 
 ### Engage
 Execute and engage your sprint
+
+#### Agile notes
