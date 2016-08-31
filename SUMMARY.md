@@ -5,5 +5,5 @@
 * [Redmine](redmine.md)
 * [Capture](capture.md)
 * [Clarify](clarify.md)
-* Organize
+* [Organize](organize.md)
 
