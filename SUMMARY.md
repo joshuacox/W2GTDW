@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Redmine](redmine.md)
 * [Capture](capture.md)
-* Clarify
+* [Clarify](clarify.md)
 
