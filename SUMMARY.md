@@ -6,4 +6,5 @@
 * [Capture](capture.md)
 * [Clarify](clarify.md)
 * [Organize](organize.md)
+* Reflect
 
