@@ -12,4 +12,4 @@ Possibly the coolest thing about Habitica is that it is actually open source, yo
 
 https://github.com/HabitRPG/habitrpg
 
-But they do such a good job I have not seen the need yet.  Kudo to the Habitica team!
+But they do such a good job I have not seen the need yet.  Kudos to the Habitica team!
