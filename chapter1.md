@@ -1,5 +1,5 @@
 # Fusing Agile and GTD into a workflow
-The [five](http://gettingthingsdone.com/fivesteps/) steps of [GTD](http://gettingthingsdone.com/)
+The [five](http://gettingthingsdone.com/fivesteps/) steps of [GTD](http://gettingthingsdone.com/) are thus:
 
 ### Capture -
 This is when we capture ideas that will form our backlog
