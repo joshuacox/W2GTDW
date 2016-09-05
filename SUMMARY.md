@@ -8,5 +8,5 @@
 * [Organize](organize.md)
 * [Reflect](reflect.md)
 * [Engage](engage.md)
-* Habitica
+* [Habitica](habitica.md)
 
