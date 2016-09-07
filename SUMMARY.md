@@ -9,5 +9,5 @@
 * [Engage](engage.md)
 * [Redmine](redmine.md)
 * [Habitica](habitica.md)
-* MindMup
+* [MindMup](mindmup.md)
 
