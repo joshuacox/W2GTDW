@@ -19,7 +19,4 @@ child.  Sound confusing?  Try it out, it should become clear.
 ### Realtime Collaboration with others
 
 then in the upper right hand corner click "share", there you'll add your collaborator's
-email address:
-
-
-and send me an invite!  
+email address and send them an invite!  
