@@ -2,7 +2,7 @@
 The [five](http://gettingthingsdone.com/fivesteps/) steps of [GTD](http://gettingthingsdone.com/) are thus:
 
 ### Capture -
-This is when we capture ideas that will form our backlog
+This is when we capture ideas that will form our backlog.
 
 ### Clarify
 Then we clarify the ideas, and vett them, describing a final state we'd like the solution to be in
