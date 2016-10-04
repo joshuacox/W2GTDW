@@ -7,6 +7,7 @@ What people say...
 
 >    I can't tell you how many time and task tracking systems I've tried over the decades... [Habitica] is the only thing I've used that actually helps me get things done rather than just list them. -- Drag0nsilver
 
+Another advantage I like quite a bit is that there is a phone App available for both iOs and Android.  So you can type up a shopping list at home using your real keyboard and computer, and then at the store you can pull up the app and check off individual items as you add them to your cart.
 
 Possibly the coolest thing about Habitica is that it is actually open source, you can run your own if you like:
 
