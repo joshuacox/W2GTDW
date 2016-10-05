@@ -14,3 +14,6 @@ Possibly the coolest thing about Habitica is that it is actually open source, yo
 https://github.com/HabitRPG/habitrpg
 
 But they do such a good job I have not seen the need yet.  Kudos to the Habitica team!
+
+They even have a wiki page that inspired me to write this book:
+http://habitica.wikia.com/wiki/GTD_with_Habitica
